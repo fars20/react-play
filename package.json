@@ -1,11 +1,19 @@
 {
-    "name": "react-play",
-    "version": "0.1.0",
-    "description": "physics engine with react hooks",
-    "keywords": ["react","hooks","velocity","motion","acceleration","physics","physics-engine"],
-    "main": "lib/index.js",
-    "peerDependencies": {
-      "react": "16.12.0",
-      "react-dom": "16.12.0"
-    }
+  "name": "react-play",
+  "version": "0.1.0",
+  "description": "physics engine with react hooks",
+  "keywords": [
+    "react",
+    "hooks",
+    "velocity",
+    "motion",
+    "acceleration",
+    "physics",
+    "physics-engine"
+  ],
+  "main": "lib/index.js",
+  "peerDependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
   }
+}
