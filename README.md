@@ -7,11 +7,11 @@ Bouncing ball https://codesandbox.io/s/react-play-demo-2-17uzi
 ## Installation 
 
 `
-npm install react-spring
+npm install react-play
 `
 
 `
-yarn add react-spring
+yarn add react-play
 `
 
 ## Contributors
